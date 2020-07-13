@@ -1,4 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif)
+![Hey there, This is Ashutosh. I'm a full stack web developer, See my work here](https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif)
 
 
 <!--
