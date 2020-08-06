@@ -26,5 +26,5 @@
 
 <h2 align='center'>Languages Used</h2>
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=282A36" />
 </a>
