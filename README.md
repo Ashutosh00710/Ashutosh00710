@@ -1,6 +1,16 @@
 ![Hey there, This is Ashutosh. I'm a full stack web developer, See my work here](https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=dracula)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=cobalt)
+<h2 align='center'>Top Repos</h2>
+<div display='grid' align='center'>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=commenting-app&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
 
 <h2 align='center'>Social Media Handles</h2>
 <p align='center'>
