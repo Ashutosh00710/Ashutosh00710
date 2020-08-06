@@ -4,11 +4,9 @@
 <h2 align='center'>Top Repos</h2>
 <div display='grid' align='center'>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=commenting-app&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 
