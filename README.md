@@ -1,11 +1,10 @@
-<h2 align='center'>Introduction</h2>
-  
+# Hello, folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">
+
 ![Hey there, This is Ashutosh. I'm a full stack web developer, See my work here](https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif)
 
 <h2 align='center'>Github Stats</h2>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=dracula)
-
 
 <h2 align='center'>Top Repos</h2>
 <div display='grid'>
@@ -24,3 +23,8 @@
 <a href="https://www.facebook.com/ashutosh.a.dwivedi.3/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/facebook.png"></a>
 <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/linkedin.png"></a>
 </p>
+
+<h2 align='center'>Languages Used</h2>
+<a href="https://github.com/Ashutosh00710/Ashutosh00710">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
