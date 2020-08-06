@@ -1,6 +1,14 @@
-# Hello, folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">
+# Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">
 
 ![Hey there, This is Ashutosh. I'm a full stack web developer, See my work here](https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif)
+
+<h2 align='center'>Social Media Handles</h2>
+<p align='center'>
+<a href="https://twitter.com/Ashutos68632603"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/ashutosh.a.dwivedi.3/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/facebook.png"></a>
+<a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/linkedin.png"></a>
+</p>
 
 <h2 align='center'>Github Stats</h2>
 
@@ -15,14 +23,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=dracula)](https://github.com/Ashutosh00710/facedetection-brain)
 
 </div>
-
-<h2 align='center'>Social Media Handles</h2>
-<p align='center'>
-<a href="https://twitter.com/Ashutos68632603"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/ashutosh.a.dwivedi.3/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/facebook.png"></a>
-<a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/linkedin.png"></a>
-</p>
 
 <h2 align='center'>Languages Used</h2>
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
