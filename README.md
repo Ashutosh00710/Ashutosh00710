@@ -12,15 +12,15 @@
 
 <h2 align='center'>Github Stats</h2>
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)
 
 <h2 align='center'>Top Repos</h2>
 <div display='grid'>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/crwn-clothing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/be-social_)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/Block-Breaker-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/facedetection-brain)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&bg_color=45,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/crwn-clothing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/be-social_)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/Block-Breaker-Game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/facedetection-brain)
 
 </div>
 
