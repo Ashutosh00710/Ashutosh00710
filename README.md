@@ -12,7 +12,7 @@
 
 <h2 align='center'>Github Stats</h2>
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=dracula)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=synthwave)
 
 <h2 align='center'>Top Repos</h2>
 <div display='grid'>
