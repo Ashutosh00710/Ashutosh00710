@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
-_Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect to me on social media, I would love to have you in my life._  
+_Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
