@@ -45,5 +45,5 @@ _Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see m
 
 <h2 align='center'><i>Languages Used</i></h2>
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=282A36" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=30,ff896c,904e95" />
 </a>
