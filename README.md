@@ -15,19 +15,20 @@ _Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see m
 </br>
 <h3 align='center'><i>💻⚙ Languages Tools & Technologies Used ⚙💻</i></h3>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/CSS-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/CSS-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=DB7093)
-![](https://img.shields.io/badge/UI-React.js-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Styling-MaterialUI-informational?style=flat&logo=material-ui&logoColor=white&color=0081CB)
-![](https://img.shields.io/badge/StateManagement-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
-![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![](<https://img.shields.io/badge/PackageManager-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB>)
-![](<https://img.shields.io/badge/PackageManager-npm-informational?style=flat&logo=npm&logoColor=white&color=CB3837>)
-![](https://img.shields.io/badge/Deployed-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/-StyledComponents-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)
+![](https://img.shields.io/badge/-React.js-informational?style=flat-square&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/-MaterialUI-informational?style=flat-square&logo=material-ui&logoColor=white&color=0081CB)
+![](https://img.shields.io/badge/-Redux-informational?style=flat-square&logo=redux&logoColor=white&color=764ABC)
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=FFCA28)
+![](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=339933)
+![](<https://img.shields.io/badge/-Yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=2C8EBB>)
+![](<https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=CB3837>)
+![](https://img.shields.io/badge/-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=430098)
+
 <h2 align='center'><i>Github Stats</i></h2>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)
