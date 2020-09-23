@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂<h2>  
+<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2>  
 
 <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
