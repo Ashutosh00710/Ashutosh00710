@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
-_Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -25,8 +25,8 @@ _Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see m
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=FFCA28)
 ![](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=339933)
-![](<https://img.shields.io/badge/-Yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=2C8EBB>)
-![](<https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=CB3837>)
+![](https://img.shields.io/badge/-Yarn-informational?style=flat-square&logo=yarn&logoColor=white&color=2C8EBB)
+![](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=430098)
 
 <h2 align='center'><i>Github Stats</i></h2>
@@ -34,7 +34,7 @@ _Hello there this is Ashutosh Dwivedi. A Full Stack Web Developer. You can see m
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)
 
 <h2 align='center'><i>Top Repos</i></h2>
-<div display='grid'>
+<div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&bg_color=45,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/crwn-clothing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/be-social_)
