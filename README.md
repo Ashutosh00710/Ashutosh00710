@@ -40,10 +40,18 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
+<a href="https://github.com/Ashutosh00710/crwn-clothing">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=onedark">
+  </a>
+  <a href="https://github.com/Ashutosh00710/be-social_">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&theme=onedark">
+  </a>
+  <a href="https://github.com/Ashutosh00710/Block-Breaker-Game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=onedark">
+  </a>
+  <a href="https://github.com/Ashutosh00710/facedetection-brain">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=onedark">
+  </a>
 </p>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
