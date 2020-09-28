@@ -32,6 +32,8 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 ![](https://img.shields.io/badge/-npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&ogoColor=white)
 ![](https://img.shields.io/badge/Brave%20Browser%20-%23ffffff.svg?&style=for-the-badge&logo=brave&ogoColor=white)
+![](https://img.shields.io/badge/Code%20Sandbox%20-%23000000.svg?&style=for-the-badge&logo=codesandbox&ogoColor=white)
+![](https://img.shields.io/badge/Postman%20-%23F9DC3E.svg?&style=for-the-badge&logo=postman&ogoColor=white)
 
 <h2 align='center'><i>Top Repos</i></h2>
 
