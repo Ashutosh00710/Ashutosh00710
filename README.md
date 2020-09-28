@@ -32,21 +32,19 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 ![](https://img.shields.io/badge/-npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&ogoColor=white)
 
-<h2 align='center'><i>Github Stats</i></h2>
-
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)
-
 <h2 align='center'><i>Top Repos</i></h2>
-<div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&bg_color=45,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/crwn-clothing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/be-social_)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/Block-Breaker-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff)](https://github.com/Ashutosh00710/facedetection-brain)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&bg_color=45,ff896c,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
+</p>
 
-</div>
-
-<h2 align='center'><i>Languages Used</i></h2>
+<h2 align='center'><i>Github Stats & Languages Used</i></h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=30,ff896c,904e95" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=30,ff896c,904e95" />
 </a>
+</p>
