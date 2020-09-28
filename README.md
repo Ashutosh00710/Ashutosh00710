@@ -6,7 +6,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
-<a href="https://twitter.com/Ashutos68632603"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/NaN_dwivedi"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/ashutosh.a.dwivedi.3/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/fb.png"></a>
 <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/linkedin.png"></a>
