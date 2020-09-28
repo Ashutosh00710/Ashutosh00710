@@ -40,16 +40,16 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&bg_color=45,ff896c,904e95&title_color=fff&text_color=fff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=onedark">
 </p>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&bg_color=30,ff896c,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=onedark">
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=30,ff896c,904e95" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=onedark" />
 </a>
 </p>
