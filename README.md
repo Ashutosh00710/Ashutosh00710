@@ -62,7 +62,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=dracula" height="205">
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=dracula" />
 </a>
