@@ -38,27 +38,33 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <img src="https://img.shields.io/badge/Postman%20-%23F9DC3E.svg?&style=for-the-badge&logo=postman&ogoColor=white">
 </p>
 
+<h2 align='center'><i>Trophy</i></h2>
+<p align='center'>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=ashutosh00710&theme=dracula">
+
+</p>
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/crwn-clothing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=dracula">
   </a>
   <a href="https://github.com/Ashutosh00710/be-social_">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&theme=dracula">
   </a>
   <a href="https://github.com/Ashutosh00710/Block-Breaker-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=dracula">
   </a>
   <a href="https://github.com/Ashutosh00710/facedetection-brain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=dracula">
   </a>
 </p>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&show_icons=true&theme=dracula">
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=dracula" />
 </a>
 </p>
