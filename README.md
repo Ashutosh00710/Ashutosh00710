@@ -16,11 +16,12 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
+<img src="https://img.shields.io/badge/typescript%20-%23ffffff.svg?&style=for-the-badge&logo=typescript&logoColor=%233498DB">
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Deno%20-%23000000.svg?&style=for-the-badge&logo=deno&ogoColor=white">
+ <img src="https://img.shields.io/badge/Deno%20-%23000000.svg?&style=for-the-badge&logo=deno&ogoColor=white">
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Styled%20Components-informational?style=for-the-badge&logo=styled-components&logoColor=white&color=DB7093">
 <img src="https://img.shields.io/badge/Material%20UI-informational?style=for-the-badge&logo=material-ui&logoColor=white&color=0081CB">
