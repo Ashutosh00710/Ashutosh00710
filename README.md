@@ -69,3 +69,9 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=dracula" />
 </a>
 </p>
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/Ashutosh00710">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh00710&layout=compact" />
+</a>
+</p>
