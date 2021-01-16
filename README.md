@@ -56,19 +56,12 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=dracula">
-  </a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark">
+</a>
 <a href="https://github.com/Ashutosh00710/crwn-clothing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=dracula">
-  </a>
-  <a href="https://github.com/Ashutosh00710/be-social_">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&theme=dracula">
-  </a>
-  <a href="https://github.com/Ashutosh00710/facedetection-brain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=dracula">
-  </a>
-</p>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=vue-dark">
+</a>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
