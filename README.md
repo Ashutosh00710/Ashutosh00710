@@ -12,6 +12,8 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <a href="https://dev.to/ashutosh00710"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashutosh Dwivedi's DEV Profile" height="30"></a>
 </p>
 
+</br>
+
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue&area=true" width="100%">
