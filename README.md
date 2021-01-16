@@ -16,7 +16,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue&area=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&theme=rogue&area=true" width="100%">
 </a>
 </p>
 
