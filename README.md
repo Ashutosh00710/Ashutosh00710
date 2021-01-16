@@ -12,6 +12,12 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <a href="https://dev.to/ashutosh00710"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashutosh Dwivedi's DEV Profile" height="30"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue&area=true" width="100%">
+</a>
+</p>
+
 </br>
 <h3 align='center'><i>💻⚙ Languages Tools & Technologies Used ⚙💻</i></h3>
 
@@ -48,14 +54,14 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
+ <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=dracula">
+  </a>
 <a href="https://github.com/Ashutosh00710/crwn-clothing">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=dracula">
   </a>
   <a href="https://github.com/Ashutosh00710/be-social_">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=be-social_&theme=dracula">
-  </a>
-  <a href="https://github.com/Ashutosh00710/Block-Breaker-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=Block-Breaker-Game&theme=dracula">
   </a>
   <a href="https://github.com/Ashutosh00710/facedetection-brain">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=facedetection-brain&theme=dracula">
