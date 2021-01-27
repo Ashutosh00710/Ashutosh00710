@@ -14,6 +14,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 </br>
 
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue&area=true" width="100%">
@@ -22,7 +23,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 </br>
 
-<h3 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h3>
+<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 
 <table>
 <tr>
