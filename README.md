@@ -25,21 +25,21 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 
-<table>
+<table width="100">
 <tr>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
-     <td align='center'>
+     <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
 </tr>
