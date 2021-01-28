@@ -74,7 +74,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
 </table>
