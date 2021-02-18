@@ -83,17 +83,17 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true">
 </a>
 <a href="https://github.com/Ashutosh00710/crwn-clothing">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=vue-dark">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=vue-dark&hide_border=true">
 </a>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&count_private=true&show_icons=true&theme=vue-dark" height="205">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
 <a href="https://github.com/Ashutosh00710/Ashutosh00710">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh00710&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-dark&hide_border=true" />
 </a>
 </p>
 
