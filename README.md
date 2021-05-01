@@ -85,9 +85,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true">
 </a>
-<a href="https://github.com/Ashutosh00710/crwn-clothing">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=crwn-clothing&theme=vue-dark&hide_border=true">
-</a>
+</p>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
