@@ -83,7 +83,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="205">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
 
