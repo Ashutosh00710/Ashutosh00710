@@ -5,11 +5,24 @@
 _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
-<a href="https://twitter.com/NaN_dwivedi"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/ashutosh.a.dwivedi.3/"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/fb.png"></a>
-<a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/linkedin.png"></a>
-<a href="https://dev.to/ashutosh00710"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashutosh Dwivedi's DEV Profile" height="30"></a>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/AshutoshD07"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="60"></a>
+    </td>
+     <td align='center' width="60">
+        <a href="https://dev.to/ashutosh00710"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="60"></a>
+    </td>
+</tr>
+</table>
+
 </p>
 
 </br>
