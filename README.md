@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2>  
+<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
 
 <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
@@ -36,7 +36,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 </br>
 
-<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+<h2 align='center'><i>Languages and Tools</i></h2>
 
 <table width="100">
 <tr>
