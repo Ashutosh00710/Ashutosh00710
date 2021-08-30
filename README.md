@@ -87,6 +87,23 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
+ <tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
+    </td>
+</tr>
 </table>
 
 <h2 align='center'><i>Top Repos</i></h2>
