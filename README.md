@@ -9,13 +9,13 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+        <a href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
+        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
 </tr>
 </table>
