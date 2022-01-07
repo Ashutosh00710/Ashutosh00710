@@ -38,10 +38,24 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -52,10 +66,13 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -64,44 +81,10 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-    <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-</tr>
- <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
     </td>
 </tr>
 </table>
