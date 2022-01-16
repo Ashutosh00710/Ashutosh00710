@@ -27,7 +27,8 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="60%">
+ <img src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg">
 </a>
 </p>
 
@@ -94,11 +95,5 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
-
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
 </a>
 </p>
