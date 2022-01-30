@@ -21,6 +21,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 </table>
 
 </p>
+📖 Currently learning   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height="20">
 
 </br>
 
