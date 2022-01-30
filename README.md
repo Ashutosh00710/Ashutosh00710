@@ -21,7 +21,17 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 </table>
 
 </p>
-📖 Currently learning   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height="20">
+
+<table width="100" align='center'>
+<tr>
+ <td align='center'>
+    <b>Currently learning</b>
+ </td>
+ <td align='center' width="60">
+     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+ </td>
+</tr>
+</table>
 
 </br>
 
