@@ -37,8 +37,11 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="100%">
+<a href="https://github.com/Ashutosh00710#gh-light-mode-only">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710#gh-dark-mode-only">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
 
