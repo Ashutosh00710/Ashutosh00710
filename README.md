@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
-_Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full Stack)](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Kampd](https://www.linkedin.com/company/knowledge-amplified/). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
@@ -98,7 +98,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
     </td>
 </tr>
 </table>
