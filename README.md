@@ -75,7 +75,7 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
