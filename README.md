@@ -69,10 +69,10 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Cloud Engineer - II](http
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
@@ -81,7 +81,7 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Cloud Engineer - II](http
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="60"/>
     </td>
 </tr>
 <tr>
