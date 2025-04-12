@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
-_Hello there this is **Ashutosh Dwivedi**. Working as [Cloud Engineer - II](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Aftershoot](https://www.linkedin.com/company/aftershootco/). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello there this is **Ashutosh Dwivedi**. Working as [Senior Software Engineer - I](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Aftershoot](https://www.linkedin.com/company/aftershootco/). You can see my opensource work down below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
