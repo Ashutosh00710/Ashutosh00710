@@ -6,7 +6,7 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Senior Software Engineer]
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
